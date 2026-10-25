@@ -17,7 +17,8 @@ El propósito final es introducir a los participantes en el desarrollo de aplica
 <img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/d1c2ae7d-a012-456b-be73-5cbd83c923ca" />
 
 
-<img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/e013a06c-e253-4ac2-aa30-2a18787d9ede" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/11b1c916-3c13-4c9f-8af8-cd03726a29c5" />
+
 
 Profesor: Martín Céspedes Escuti
 
