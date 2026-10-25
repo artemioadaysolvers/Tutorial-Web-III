@@ -14,9 +14,10 @@ Asimismo, el tutorial enseñará a utilizar Git para administrar el repositorio 
 
 El propósito final es introducir a los participantes en el desarrollo de aplicaciones web integradas con sistemas físicos e inteligencia artificial, combinando tecnologías frontend, backend, computación en el borde (Edge Computing), servicios en la nube y automatización de despliegues
 
+<img width="400" height="270" alt="image" src="https://github.com/user-attachments/assets/d1c2ae7d-a012-456b-be73-5cbd83c923ca" />
 
 
-<img width="1017" height="685" alt="image" src="https://github.com/user-attachments/assets/e013a06c-e253-4ac2-aa30-2a18787d9ede" />
+<img width="500" height="270" alt="image" src="https://github.com/user-attachments/assets/e013a06c-e253-4ac2-aa30-2a18787d9ede" />
 
 Profesor: Martín Céspedes Escuti
 
